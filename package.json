@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start:deprecated": "node ./crypto-legacy.js",
+    "start:decryptiv": "node ./crypto-legacy.js",
+    "test": "mocha ./**/*.spec.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
