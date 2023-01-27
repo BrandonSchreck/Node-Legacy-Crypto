@@ -19,3 +19,8 @@ Three scripts are included:
     "start:deprecated": "node ./crypto-legacy.js", -- runs deprecated encrypt/decrypt with createCipher and createDecipher
     "start:decryptiv": "node ./crypto-legacy.js",  -- runs deprecated encrypt createCipher but uses createDecipheriv to decrypt
     "test": "mocha ./**/*.spec.js"                 -- unit tests showing the code works
+
+If you found this information helpful, buy me a coffee!
+
+<a href="https://www.buymeacoffee.com/brandon.schreck" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
